@@ -11,7 +11,7 @@ The aim of this project is to showcase one way of creating an E2E test automatio
 
 ## How to run the tests
 ### Prerequisites
-- Node.js
+- Node.js v18
 - Docker
 - Docker Compose
 
